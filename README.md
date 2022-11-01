@@ -1,6 +1,6 @@
 # Modelling of water erosion, its hydrological and geochemical impacts
 
-This website contains materials for a 2-day School for Young Scientists for the [Faculty of Geography](http://geogr.msu.ru/) at the Lomonosov Moscow State University.
+This website contains materials for a School for Young Scientists for the [Faculty of Geography](http://geogr.msu.ru/) at the Lomonosov Moscow State University.
 
 The full website is available here: <https://megapolis2022.ru/>
 

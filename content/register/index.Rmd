@@ -33,43 +33,43 @@ output:
   blogdown::html_page:
     toc: TRUE
 ---
-<!-- <form name="contact" method="POST" data-netlify="true"> -->
-<!--   <p> -->
-<!--     <label>First Name: <input type="text" name="name" /></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <label>Last Name: <input type="text" name="surname" /></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <label>Age: <input type="text" name="age" /></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <label>Academic degree: <input type="text" name="degree" /></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <label>Job position: <input type="text" name="position" /></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <label>Affiliation: <input type="text" name="affiliation" /></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <label>Areas of activity: <textarea name="activity"></textarea></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <label>Your Email: <input type="email" name="email" /></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <label>CV: <input type="file" name="cv" /></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <label>Motivation letter: <input type="file" name="motto" /></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <label>Publication list: <input type="file" name="publ" /></label> -->
-<!--   </p> -->
-<!--   <p> -->
-<!--     <button type="submit">Send</button> -->
-<!--   </p> -->
-<!-- </form> -->
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>First Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Last Name: <input type="text" name="surname" /></label>
+  </p>
+  <p>
+    <label>Age: <input type="text" name="age" /></label>
+  </p>
+  <p>
+    <label>Academic degree: <input type="text" name="degree" /></label>
+  </p>
+  <p>
+    <label>Job position: <input type="text" name="position" /></label>
+  </p>
+  <p>
+    <label>Affiliation: <input type="text" name="affiliation" /></label>
+  </p>
+  <p>
+    <label>Areas of activity: <textarea name="activity"></textarea></label>
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>CV: <input type="file" name="cv" /></label>
+  </p>
+  <p>
+    <label>Motivation letter: <input type="file" name="motto" /></label>
+  </p>
+  <p>
+    <label>Publication list: <input type="file" name="publ" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf9MicwcS5aiEgpTcknTTOHPO6w8K-dPx1Bto8Z7ycvbbikDg/viewform?embedded=true" width="100%" height="1600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
