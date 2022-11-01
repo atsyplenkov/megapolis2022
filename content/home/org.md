@@ -31,5 +31,9 @@ feature:
     icon_pack: 
     name: 'World Association of Soil and Water Conservation <br> WASWAC'
     description: '<img src = "/media/waswac.jpg" style="width:40%;height:40%;margin-left:auto; margin-right:auto;margin-top:auto; margin-bottom:auto;">'
+  - icon: 
+    icon_pack: 
+    name: 'An international scientific cooperation program  <br> Mega-grants'
+    description: '<img src = "/media/megagrant_logo.svg" style="width:40%;height:40%;margin-left:auto; margin-right:auto;margin-top:auto; margin-bottom:auto;">'
  
 ---
