@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512.00002 512.00002"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="zoom.svg"
+   width="512"
+   height="512"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview18"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.57246134"
+     inkscape:cx="384.14965"
+     inkscape:cy="161.41912"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.fil1{fill:#fff;fill-rule:nonzero}</style>
+  </defs>
+  <path
+     style="stroke-width:0.385229;fill:#3d4856;fill-opacity:1"
+     d="M 256,25.120775 C 383.51076,25.120775 486.87922,128.48924 486.87922,256 486.87922,383.51076 383.51076,486.87922 256,486.87922 128.48924,486.87922 25.120775,383.51076 25.120775,256 25.120775,128.48924 128.48924,25.120775 256,25.120775 Z"
+     fill="#4a8cff"
+     fill-rule="nonzero"
+     id="path10" />
+  <path
+     style="stroke-width:0.385229"
+     class="fil1"
+     d="m 105.37166,183.66557 v 108.49972 c 0.0963,24.53522 20.13591,44.28206 44.57483,44.1819 h 158.15572 c 4.49562,0 8.11292,-3.6173 8.11292,-8.01662 V 219.83086 c -0.0963,-24.53523 -20.13592,-44.28206 -44.57099,-44.1819 H 113.48843 c -4.49562,0 -8.11292,3.6173 -8.11292,8.01661 z m 220.9095,42.3251 65.29629,-47.69904 c 5.67057,-4.69209 10.06603,-3.52099 10.06603,4.98486 v 145.44702 c 0,9.67695 -5.37779,8.50585 -10.06603,4.98486 l -65.29629,-47.60273 z"
+     id="path12" />
+</svg>

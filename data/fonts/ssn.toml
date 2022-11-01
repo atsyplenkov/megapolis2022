@@ -1,0 +1,12 @@
+# Font style metadata
+name = "sharing-short-notice"
+
+# Optional Google font URL
+google_fonts = "Noto+Serif+JP|Roboto+Mono|Source+Code+Pro|Lato"
+
+# Font families
+heading_font = "Noto Serif JP"
+body_font = "Lato"
+nav_font = "Lato"
+mono_font = "Source Code Pro"
+
