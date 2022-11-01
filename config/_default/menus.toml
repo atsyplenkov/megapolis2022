@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Schedule"
-  url = "#timetable"
+  url = "timetable"
   weight = 30
 
 [[main]]
