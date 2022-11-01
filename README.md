@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9306df71-1a8c-4d89-b760-6bc89b3debee/deploy-status)](https://app.netlify.com/sites/megapolis2022/deploys)
+
 # Modelling of water erosion, its hydrological and geochemical impacts
 
 This website contains materials for a School for Young Scientists for the [Faculty of Geography](http://geogr.msu.ru/) at the Lomonosov Moscow State University.
