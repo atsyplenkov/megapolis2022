@@ -1,0 +1,41 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Timetable"
+subtitle: ""
+summary: ""
+authors: []
+tags: []
+categories: []
+date: 
+lastmod: 2022-09-11T11:17:19-07:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
+Time of lectures will be announced later
+
+
+| 1st December |||Video|Files|
+|----------|:-------------|------------------:|--:|--:|
+| TBA |    |  Opening ceremony|||
+| TBA |  **[Seyed Hamidreza Sadeghi](/authors/sadeghi/)**  |  Necessity of the Watershed Health Assessment in Hydrology| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| **2nd December** |
+| TBA |  **[Zhengzheng Zhou](/authors/zhou/)**  |  Extreme storm analysis and Machine learning applications for rainfall prediction in urban areas| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| **3rd December** |
+| TBA |  **[Michael Maerker](/authors/maercker/)**  |  Integrated Soil Erosion Assessment: Concepts, Methods and Applications| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| **4th December** |
+| TBA |  **Andrey Zhidkin**  |  TBA| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| **5th December** |
+| TBA |  **[Paolo Porto](/authors/porto/)**  | 137Cs traditional and re-sampling approaches to estimate soil erosion for different time scales| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
