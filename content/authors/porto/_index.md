@@ -6,8 +6,8 @@ email: ""
 aff: University Mediterranea of Reggio Calabria, Italy <b>:it:</b>
 name: Paolo Porto
 organizations:
-- name: Department of Agro-Forestry and Environmental Sciences and Technologies, Faculty of Agriculture, University Mediterranea of Reggio Calabria
-  url: https://www.unirc.it/en/
+- name: Department of Agraria, University Mediterranea of Reggio Calabria, Italy
+  url: https://www.unirc.it/
 role: Associate Professor
 social:
 - icon: envelope
