@@ -31,6 +31,7 @@ Time of lectures will be announced later
 |----------|:-------------|------------------:|--:|--:|
 | TBA |    |  Opening ceremony|||
 | TBA |  **[Seyed Hamidreza Sadeghi](/authors/sadeghi/)**  |  Necessity of the Watershed Health Assessment in Hydrology| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| TBA |  **[Ivan Lizaga](/authors/lizaga/)**  |  Past, present and future of sediment fingerprinting| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
 | **2nd December** |
 | TBA |  **[Zhengzheng Zhou](/authors/zhou/)**  |  Extreme storm analysis and Machine learning applications for rainfall prediction in urban areas| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
 | **3rd December** |
