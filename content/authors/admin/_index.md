@@ -5,7 +5,7 @@ bio: ""
 email: ""
 name: null
 organizations:
-- name: "Dates: 1 Dec — 5 Dec 2022"
+- name: "Dates: 1 Dec — 6 Dec 2022"
 - name: "Price: Free"
 role: "Registration is open!"
 social:
