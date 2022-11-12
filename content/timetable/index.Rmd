@@ -33,7 +33,7 @@ projects: []
 | 15:00 |  **[Zhengzheng Zhou](/authors/zhou/)**  |  Extreme storm analysis and Machine learning applications for rainfall prediction in urban areas| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
 | **3rd December** |
 | 16:30 |  **[Michael Maerker](/authors/maercker/)**  |  Integrated Soil Erosion Assessment: Concepts, Methods and Applications| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
-| 16:30 |  **[Andrey Zhidkin](/authors/zhidkin/)**  |  Historical reconstruction and forecast of soil cover degradation based on erosion modeling and field soil survey data| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| 18:00 |  **[Andrey Zhidkin](/authors/zhidkin/)**  |  Historical reconstruction and forecast of soil cover degradation based on erosion modeling and field soil survey data| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
 | **4th December** |
 |Sunday|||
 | **5th December** |
