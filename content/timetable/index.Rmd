@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Timetable"
-subtitle: '<i class="fas fa-clock"></i> Moscow time'
+subtitle: '<a href="/media/2022Megapolis_SCHEDULE_14Nov.pdf" target="_blank" rel="noopener"><i class="fas fa-download"></i> Download .pdf version </a> <br> <i class="fas fa-clock"></i> Moscow time'
 summary: ""
 authors: []
 tags: []
