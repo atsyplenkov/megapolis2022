@@ -55,9 +55,9 @@ subtitle = ''
 #### Faculty of Geography, Moscow State University, Russia
 <div>
 <ul class="columns" data-columns="2" style = "list-style-type:disc;-webkit-columns:2;-moz-columns: 2;columns: 2;list-style-position: inside;">
-<li>Nikolay Kasimov</li>
-<li><b>Sergey Chalov</b></li>
-<li>Anatoly Tsyplenkov</li>
+<li><b>D.Sc. Sergey Chalov</b></li>
+<li>D.Sc. Natalia Kosheleva</li>
+<li>Dr. Anatoly Tsyplenkov</li>
 <li>Kristina Prokopeva</li>
 <li>Veronika Letnikova</li>
 </ul></div>
