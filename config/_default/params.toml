@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "MEGAPOLIS2022: Pollutant and sediment mobility in river systems: monitoring studies to identify human impacts"
+description = "MEGAPOLIS2022: Modelling of water erosion, its hydrological and geochemical impacts"
 
 ############################
 ## Site Features
