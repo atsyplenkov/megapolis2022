@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Logistics"
-  url = "#logistics"
+  name = "Go live!"
+  url = "#youtube_embed"
   weight = 20
 
 [[main]]
