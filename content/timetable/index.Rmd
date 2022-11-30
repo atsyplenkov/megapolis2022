@@ -28,16 +28,16 @@ projects: []
 | 1st December |||Video|Files|
 |----------|:-------------|------------------:|--:|--:|
 | 16:30 |    |  Opening ceremony|||
-| 16:45 |  **[Ivan Lizaga](/authors/lizaga/)**  |  Past, present and future of sediment fingerprinting| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| 16:45 |  **[Ivan Lizaga](/authors/lizaga/)**  |  Past, present and future of sediment fingerprinting| **[<i class="fab fa-youtube"></i>](https://youtu.be/0dIsyDPPoV4)** | **<i class="fas fa-file-pdf"></i>** |
 | **2nd December** |
-| 15:00 |  **[Zhengzheng Zhou](/authors/zhou/)**  |  Extreme storm analysis and Machine learning applications for rainfall prediction in urban areas| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| 15:00 |  **[Zhengzheng Zhou](/authors/zhou/)**  |  Extreme storm analysis and Machine learning applications for rainfall prediction in urban areas| **[<i class="fab fa-youtube"></i>](https://youtu.be/9c9rpPnLgMk)** | **<i class="fas fa-file-pdf"></i>** |
 | **3rd December** |
-| 16:30 |  **[Michael Maerker](/authors/maercker/)**  |  Integrated Soil Erosion Assessment: Concepts, Methods and Applications| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
-| 18:00 |  **[Andrey Zhidkin](/authors/zhidkin/)**  |  Historical reconstruction and forecast of soil cover degradation based on erosion modeling and field soil survey data| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| 16:30 |  **[Michael Maerker](/authors/maercker/)**  |  Integrated Soil Erosion Assessment: Concepts, Methods and Applications| **[<i class="fab fa-youtube"></i>](https://youtu.be/asvJ60z0xNY)** | **<i class="fas fa-file-pdf"></i>** |
+| 18:00 |  **[Andrey Zhidkin](/authors/zhidkin/)**  |  Historical reconstruction and forecast of soil cover degradation based on erosion modeling and field soil survey data| **[<i class="fab fa-youtube"></i>](https://youtu.be/asvJ60z0xNY)** | **<i class="fas fa-file-pdf"></i>** |
 | **4th December** |
 |Sunday|||
 | **5th December** |
-| 16:30 |  **[Paolo Porto](/authors/porto/)**  | 137Cs traditional and re-sampling approaches to estimate soil erosion for different time scales| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
-| 18:00 |  **[Anatoly Tsyplenkov](/authors/tsyplenkov/)**  | Soil erosion modeling in R (workshop)| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| 16:30 |  **[Paolo Porto](/authors/porto/)**  | 137Cs traditional and re-sampling approaches to estimate soil erosion for different time scales| **[<i class="fab fa-youtube"></i>](https://youtu.be/B2ian7Gmodc)** | **<i class="fas fa-file-pdf"></i>** |
+| 18:00 |  **[Anatoly Tsyplenkov](/authors/tsyplenkov/)**  | Soil erosion modeling in R (workshop)| **[<i class="fab fa-youtube"></i>](https://youtu.be/B2ian7Gmodc)** | **<i class="fas fa-file-pdf"></i>** |
 | **6th December** |
-| 16:30 |  **[Seyed Hamidreza Sadeghi](/authors/sadeghi/)**  |  Necessity of the Watershed Health Assessment in Hydrology| **<i class="fab fa-youtube"></i>** | **<i class="fas fa-file-pdf"></i>** |
+| 16:30 |  **[Seyed Hamidreza Sadeghi](/authors/sadeghi/)**  |  Necessity of the Watershed Health Assessment in Hydrology| **[<i class="fab fa-youtube"></i>](https://youtu.be/APXqWAVuunU)** | **<i class="fas fa-file-pdf"></i>** |
