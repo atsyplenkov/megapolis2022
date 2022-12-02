@@ -28,7 +28,7 @@ projects: []
 | 1st December |||Video|Files|
 |----------|:-------------|------------------:|--:|--:|
 | 16:30 |    |  Opening ceremony|||
-| 16:45 |  **[Ivan Lizaga](/authors/lizaga/)**  |  Past, present and future of sediment fingerprinting| **[<i class="fab fa-youtube"></i>](https://youtu.be/0dIsyDPPoV4)** | **<i class="fas fa-file-pdf"></i>** |
+| 16:45 |  **[Ivan Lizaga](/authors/lizaga/)**  |  Past, present and future of sediment fingerprinting| **[<i class="fab fa-youtube"></i>](https://youtu.be/0dIsyDPPoV4)** | **[<i class="fab fa-google-drive"></i>](https://drive.google.com/drive/folders/1gyxX8SfYSV58EMgB5DbezA6cXNSZfw7y?usp=sharing)** |
 | **2nd December** |
 | 15:00 |  **[Zhengzheng Zhou](/authors/zhou/)**  |  Extreme storm analysis and Machine learning applications for rainfall prediction in urban areas| **[<i class="fab fa-youtube"></i>](https://youtu.be/9c9rpPnLgMk)** | **<i class="fas fa-file-pdf"></i>** |
 | **3rd December** |
