@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Day 2"
+title = "Day 3"
 subtitle = ''
 
 [design]
@@ -51,5 +51,5 @@ subtitle = ''
 
 +++
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/9c9rpPnLgMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/asvJ60z0xNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
