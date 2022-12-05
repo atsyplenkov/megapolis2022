@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Registration"
-  url = "register"
+  name = "R server"
+  url = "http://88.210.14.198:8787/"
   weight = 10
 
 [[main]]
