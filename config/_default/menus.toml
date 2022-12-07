@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Go live!"
-  url = "#youtube_embed"
-  weight = 20
-
-[[main]]
   name = "Schedule"
   url = "timetable"
   weight = 30

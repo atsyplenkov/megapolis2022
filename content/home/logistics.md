@@ -2,8 +2,8 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
 title = "Logistics"
 subtitle = "Kindly ask your question using Q&A box in Zoom Meeting to write your question. The Chair/Host will read out your question to Speakers during available time after the lecture. Subscribe to <a href='https://www.youtube.com/channel/UCCXZNFdglOzGczmnAisb1vg'>Yotube channel</a> to watch lectures later!"

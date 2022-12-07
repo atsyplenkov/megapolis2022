@@ -38,6 +38,6 @@ projects: []
 |Sunday|||
 | **5th December** |
 | 16:30 |  **[Paolo Porto](/authors/porto/)**  | 137Cs traditional and re-sampling approaches to estimate soil erosion for different time scales| **[<i class="fab fa-youtube"></i>](https://youtu.be/B2ian7Gmodc)** | **<i class="fas fa-file-pdf"></i>** |
-| 18:00 |  **[Anatoly Tsyplenkov](/authors/tsyplenkov/)**  | Soil erosion modeling in R (workshop)| **[<i class="fab fa-youtube"></i>](https://youtu.be/B2ian7Gmodc)** | **<i class="fas fa-file-pdf"></i>** |
+| 18:00 |  **[Anatoly Tsyplenkov](/authors/tsyplenkov/)**  | Soil erosion modeling in R (workshop)| **[<i class="fab fa-youtube"></i>](https://youtu.be/B2ian7Gmodc)** | **[<i class="fas fa-file-powerpoint"></i>](/media/rusler_overview.pdf)** |
 | **6th December** |
 | 16:30 |  **[Seyed Hamidreza Sadeghi](/authors/sadeghi/)**  |  Necessity of the Watershed Health Assessment in Hydrology| **[<i class="fab fa-youtube"></i>](https://youtu.be/APXqWAVuunU)** | **<i class="fas fa-file-pdf"></i>** |
