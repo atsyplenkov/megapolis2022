@@ -3,13 +3,9 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "R server"
-  url = "http://88.210.14.198:8787/"
-  weight = 10
 
 [[main]]
-  name = "Schedule"
+  name = "Schedule & Materials"
   url = "timetable"
   weight = 30
 

@@ -7,7 +7,7 @@ name: null
 organizations:
 - name: "Dates: 1 Dec — 6 Dec 2022"
 - name: "Price: Free"
-role: "Registration is open!"
+role: "This event has finished"
 social:
 - icon: envelope
   icon_pack: fas
@@ -17,7 +17,10 @@ social:
   link: http://geogr.msu.ru/
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCCXZNFdglOzGczmnAisb1vg
+  link: https://www.youtube.com/channel/UCCXZNFdglOzc
+- icon: file-pdf
+  icon_pack: fas
+  link: /timetable/
 superuser: true
 user_groups:
 - Researchers
@@ -33,3 +36,6 @@ considering transport and fate of sediments. During the school, participants wil
 This website contains all of the details and materials for the school, along with resources for further learning and practice. The materials shared here are free and open source and may be shared and adapted under the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/).
 
 **Expected audience**: young Researchers, PostDocs, PhDs, MSc, advanced BSc.
+
+### School materials
+All lectures are available at our **[YouTube channel <i class="fab fa-youtube"></i>](https://www.youtube.com/@megapolis-yss)**. Lecture slides and supplementary material are available on [Timetable](/timetable/) page.
