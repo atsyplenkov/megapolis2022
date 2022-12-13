@@ -43,4 +43,4 @@ projects: []
 | 18:00 |  **[Anatoly Tsyplenkov](/authors/tsyplenkov/)**  | Soil erosion modeling in R (workshop)| **[<i class="fab fa-youtube"></i>](https://youtu.be/B2ian7Gmodc)** | **[<i class="fas fa-file-powerpoint"></i>](/media/rusler_overview.pdf)** |
 | **6th December** |
 | 16:30 |  **[Seyed Hamidreza Sadeghi](/authors/sadeghi/)**  |  Necessity of the Watershed Health Assessment in Hydrology| **[<i class="fab fa-youtube"></i>](https://youtu.be/APXqWAVuunU)** | **[<i class="fas fa-file-powerpoint"></i>](/media/megapolis2022_sadeghi.pdf)** |
-| 18:00 |  **Pavel Tersky**  | SWAT applications for the small urban river pollution modeling |  |  |
+| 18:00 |  **Vsevolod Moreido**  | SWAT applications for the small urban river pollution modeling |  |  |
